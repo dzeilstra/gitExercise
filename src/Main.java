@@ -4,5 +4,6 @@ public class Main {
         System.out.println("It's me, Josephi Krakowski!");
         System.out.println("Heuristic");
         System.out.println("Why does everything have to be so difficult for me?");
+        System.out.println("Ooh wa aa aah");
     }
 }
