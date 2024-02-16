@@ -5,5 +5,6 @@ public class Main {
         System.out.println("Heuristic");
         System.out.println("Why does everything have to be so difficult for me?");
         System.out.println("Ooh wa aa aah");
+        System.out.println("GET UP COME ON GET DOWN WITH THE SICKNESS");
     }
 }
