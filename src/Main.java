@@ -7,5 +7,7 @@ public class Main {
         System.out.println("Ooh wa aa aah");
         System.out.println("GET UP COME ON GET DOWN WITH THE SICKNESS");
         System.out.println("Her name was Lola");
+
+        System.out.println("I'M GONNA DO IT");
     }
 }
